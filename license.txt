@@ -1,0 +1,122 @@
+﻿SOFTWARE:   Brother Software
+
+IMPORTANT-PLEASE READ CAREFULLY BEFORE INSTALLING THE SOFTWARE:
+
+This End-User License Agreement ("EULA") is a legal agreement between you ("you" or "End-user") and Brother Industries, Ltd. ("Brother"), which governs your use of the Brother software described above and any and all associated user manuals and electronic documents ("SOFTWARE"). By installing, reproducing and/or using the SOFTWARE, you agree to be bound by the terms of this EULA. You may not cancel this transaction once the installing process starts. If you do not agree to the terms of this EULA, Brother will not license the SOFTWARE to you and you must stop the installation process now. You should print a copy of this EULA for future reference. Amendments and modifications to this EULA may be made without your prior consent in the cases:
+A) when the amendments or modifications are in your general interest, or B) when the amendments or modification are rational and reasonable and do not conflict with the purpose of this EULA. Notwithstanding the foregoing, in principle, the contents of the amendments or modifications shall be published on Brother's website or by any other appropriate methods and be notified before the effective date of the amendments or modifications, and enter into effect from the date that is separately specified in the notification.
+
+Terms and Conditions.
+---------------------
+1. Grant of License.
+--------------------
+
+In consideration of you agreeing to abide by the terms and conditions of this EULA, Brother grants you a non-transferable, non-exclusive license to:
+
+1) install one copy of the SOFTWARE on a single computer and use the SOFTWARE for your personal purposes (if you are a consumer) or your internal business purposes (if you are a business) only.  If the SOFTWARE was provided to you with Brother products or constitutes a new version of software that was previously provided to you with Brother products, you may install one copy of the SOFTWARE on multiple products at a single location for the sole purpose of using the SOFTWARE for the aforementioned purposes with those Brother products, unless instructed otherwise by Brother or other license agreements provided by third parties.
+
+2) make one copy of the SOFTWARE for back-up purposes provided that any such copy shall include any and all copyright notices and/or other notices provided with the original SOFTWARE in a form totally identical with the originals. 
+2. Limitation on Use.
+---------------------
+  Except as expressly set out in this EULA or as permitted by any local law, you undertake: 
+
+1)  not to copy the SOFTWARE except where such copying is incidental to normal use of the SOFTWARE or where it is necessary for the purpose of back-up or operational security;
+2) not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify the SOFTWARE;
+3) not to make alterations to, or modifications of, the whole or any part of the SOFTWARE nor permit the SOFTWARE or any part of it to be combined with, or become incorporated in, any other programs;
+4) not to disassemble, de-compile, reverse engineer or create derivative works based on the whole or any part of the SOFTWARE nor attempt to do any such things;
+5) to keep all copies of the SOFTWARE secure and to maintain accurate and up-to-date records of the number and locations of all copies of the SOFTWARE;
+6) where you are a business, to supervise and control use of the SOFTWARE and ensure that the SOFTWARE is used by your employees and representatives in accordance with the terms of this EULA;
+7) where you are a consumer, not to use the SOFTWARE for any commercial, business or re-sale purposes;
+8) to include our copyright notice on all entire and partial copies of the SOFTWARE in any form;
+9) not to provide, or otherwise make available, the SOFTWARE in any form, in whole or in part (including, but not limited to, program listings, object and source program listings, object code and source code) to any person (other than providing in whole to your employees if you are a business, or transferring in accordance with Section4) without prior written consent from us;
+10) not to use the SOFTWARE via any communications network or by means of remote access.
+
+3. Ownership.
+-------------
+    All right, titles and interest, including all intellectual property rights,  in and to the SOFTWARE (including but not limited to programs, images, clip arts, templates, fonts texts) and user manuals and other materials associated therewith as well as all copies thereof are owned by Brother or its suppliers. The SOFTWARE is protected by applicable intellectual property rights and international treaties.  All rights, titles and interests including but not limited to copyrights in and to the SOFTWARE are licensed but not sold.
+
+4. Transfer.
+------------
+ You may permanently transfer the SOFTWARE to any person, provided that when you transfer the SOFTWARE, you must deliver such person the Brother hardware in which the SOFTWARE is installed, together with all material in the package of the SOFTWARE (including all component parts, the media and printed materials such as user manuals).  If the SOFTWARE constitutes upgrades of any former software, you must also deliver all such former software.  Upon transfer, you lose any rights to retain any copies of the SOFTWARE and must erase any copies of the SOFTWARE you made.
+
+5. Warranty.
+------------
+5.1 Brother warrants to you that the SOFTWARE will perform substantially in accordance with specifications thereof for a period of 90 days from the date you first receive the SOFTWARE.  Upon Brother's receipt of and agreement with your notice that the SOFTWARE does not substantially perform in accordance with specifications thereof, Brother will at its sole option either repair or replace the SOFTWARE provided that you make available all information that may be necessary to help Brother to remedy the defect or fault, including sufficient information to enable Brother to recreate such defect or fault. You acknowledge that the Software has not been developed to meet your individual requirements, and that it is therefore your responsibility to ensure that the facilities and functions of the SOFTWARE meet your requirements.
+
+5.2 The repair or replacement of the SOFTWARE by Brother as set forth in Section 5.1 of this EULA is Brother's entire liability and your sole and exclusive remedy.
+
+5.3 The above warranty does not apply if either (1) the defect or fault in the SOFTWARE results from you having amended the SOFTWARE or (2) if the defect or fault in the SOFTWARE results from you having used the SOFTWARE in contravention of the terms of this EULA.
+
+6. Limitation of Liability.
+---------------------------
+　BROTHER EXPRESSLY DISCLAIMS ANY OTHER LIABILITY THAN AS SET FORTH IN ARTICLE 5 OF THIS EULA, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH REGARD TO THE SOFTWARE.  FURTHER, IN NO EVENT SHALL BROTHER BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF BUSINESS OPPORTUNITIES, LOSS OF USE OR OF DATA, INTERRUPTION OF BUSINESS, OR FOR INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND, WHETHER BASED IN CONTRACT, TORT, OR OTHERWISE, EVEN IF BROTHER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  NOTHING IN THIS LICENCE SHALL LIMIT OR EXCLUDE OUR LIABILITY FOR DEATH, PERSONAL INJURY, FRAUD, FRAUDULENT MISREPRESENTATION OR ANY OTHER LIABILITY THAT CANNOT BE EXCLUDED BY APPLICABLE LAWS.
+　
+
+7. Termination
+--------
+  Brother may, without prejudice to any other rights and remedies it may have, terminate this EULA without notice if you breach it.  In case of Brother's termination upon any breach by you of this EULA, you must destroy the SOFTWARE and all copies thereof immediately.
+
+8. Trademarks.
+--------------
+  In no event this EULA shall be construed to grant you any licenses to use any rights to trademarks or service marks owned by Brother or its suppliers.
+
+9. Export Regulations.
+----------------------
+  You may not export or re-export the SOFTWARE or any copy or adaptation thereof in violation of any applicable laws or regulations.
+
+10. Waiver
+--------------------   
+　If we fail to insist that you perform any of your obligations under this EULA, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default against you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you.
+
+11. Severability
+--------------------
+  Each of the conditions of this EULA operates separately. If any court or competent authority decides that any of them are unlawful or unenforceable, the remaining conditions will remain in full force and effect.
+
+12. Governing Laws.
+-------------------
+  This EULA is governed and controlled under the laws of Japan.  If any of the provisions of this EULA shall be declared void, such provisions shall be severable and independent from the other provisions of this EULA, and the validity of the other provisions and of the entire EULA shall not be affected.
+
+13. Collection of device information.
+-------------------
+  The SOFTWARE may enable Brother to collect information from any consumables, and/or other electronic devices connected to the Brother products ("Devices"), including, but not limited to, the printer model, serial number, and location of your Devices ("Device Information"). Additionally, information on your use of products (printing date, number of printed pages, the types and sizes of paper, ink consumption, etc.) and information of the operation of those products (such as error logs) may be sent to Brother's server. Any information on your use of products and the operation of those products accumulated prior to the installation of the SOFTWARE may also be sent to Brother's server. Such information (except for the serial number) does not identify you as a person nor will be associated with any of your personal information. Brother will use such information solely for the purpose of statistical analysis and improvement of our service.
+
+  Device Information includes the serial number of our product. If you register information through to our sales company's product registration website, such sales company will hold information which may personally identify you and the product's serial number. However, Brother will not personally identify you because Brother will not be provided such information. The serial number will be maintained in strict accordance with Brother's "Statement on Device Data " which is available at Brother's Website <http://www.brother.com/privacy/device/index.htm >.
+
+  Notwithstanding the foregoing, Brother or Brother’s affiliates may ask for your consent to use Device Information for various direct marketing purposes in the course of providing our products or services (“Direct Marketing").  Such request to use the Device Information for Direct Marketing purposes shall be made clearly and separately from this EULA.  It shall not be construed in any way that you are obliged to consent to the processing of Device Information for Direct Marketing purposes. Brother shall use or provide to its affiliates the Device Information for Direct Marketing purposes only with your consent, and you will not be deemed to have consented to such purposes solely by agreeing to this EULA.
+
+  You may opt out of the collection of device information in this section of the EULA by changing the settings of the installer or this SOFTWARE.
+  If you have previously installed any software or application for the Brother Machine (for the purposes of this paragraph, Brother Machine shall be limited to Brother’s printers and multifunctional products only), installing this SOFTWARE may overwrite the features used for collecting Device Information under such previous software or application.  In such case, the terms and conditions of Section 13 of this EULA shall apply to your Device Information collected and processed under such previous software or application.
+
+
+Additional Terms and Conditions
+
+1. For accessing Brother Websites after installation of the SOFTWARE, you further agree to the following:
+
+Once you install the SOFTWARE, the SOFTWARE may automatically display a website operated by Brother or its sales subsidiary in the region where you reside (“Brother’s Regional Website”).  In addition, a shortcut icon or menu that links to Brother Creative Center, a website that provides free, professionally designed business and home printable projects, will be created on your desktop or on application(s) (hereinafter, Brother’s Regional Website and Brother Creative Center are collectively called “Brother Websites”).
+These Brother Websites use Google Analytics, a web analytics service provided by Google LLC (“Google”), to track and monitor how you use the website.  Google Analytics uses cookies to distinguish unique users by assigning a randomly generated number as client identifier and uses this information to monitor your behavior on websites.
+
+The shortcut URL to Brother Websites contains a parameter that includes information such as the model name and serial number of your product, and the country and language information of your computer (the “Parameter”).  When you access Brother’s Regional Website via the website that is automatically displayed after installing the SOFTWARE, or when you access Brother Creative Center via the shortcut, and from there onwards, the information in the Parameter is associated with the random client identifier assigned by Google, which enables Brother to combine your product information with information such as your browsing behavior on Brother Websites, including, but not limited to, which web pages you have visited, how long you stayed on the website, and how you got to the website.
+
+If you visit other Brother-owned websites including, but not limited to, Brother support website, your browsing behavior on such websites may be further associated with the client identifier and combined with the information in the Parameter.
+
+If you would like to know more about the purposes for which the information collected through Brother’s Regional Website is used and the ways in which the information is protected, please refer to the respective privacy policy of the Brother sales subsidiary of your country or region.  For Brother Creative Center, please refer to the Terms of Use for Brother Creative Center <https://www.creativecenter.brother/en-us/terms-of-use>.  The serial number in the Parameter can be associated with the data which you might register through our sales subsidiary’s product registration website.  However, the serial number will not be used to identify you or for purposes other than what is set forth above. 
+
+If you would like to prevent your data from being collected and processed by Google Analytics, you can opt-out from Google Analytics by downloading and installing the Google Analytics’ Opt-out Add-on <https://tools.google.com/dlpage/gaoptout/>.
+
+2.For Brother hardware products that include functions which convert scanned data into Microsoft Office file, you further agree to the following:
+
+2.1. You need Internet access in order to convert scanned data into Microsoft Office file ("the Service"). 
+2.2. When converting your data, the scanned data is temporarily stored in servers of third parties, which are provided under a contract with Brother. Such data shall be used only for the purpose of (i) providing the Service, and (ii) analyzing the performance and functionality of the Service (anonymous data only). 
+2.3. The Service may be suspended or discontinued without notice due to changes in circumstances of server providers or other reasons.
+
+
+
+
+
+PLEASE READ THE FOLLOWING INFORMATION RELATING TO FIREWALL / ANTIVIRUS.
+
+In order for all the network features on your Brother product(s) to work, some of the Windows Firewall port settings need to be changed to enable network connection and continue with the installation.
+
+FOR ANTIVIRUS SOFTWARE USERS:
+
+If you are using AntiVirus Software, a warning dialog window may appear during the installation. Choose "allow" to continue.
+
